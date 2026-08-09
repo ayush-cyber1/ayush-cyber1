@@ -133,6 +133,7 @@ const ayushSharma = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Sharma-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-sharma-28012541b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7dd3fc?style=for-the-badge&logo=vercel&logoColor=white)](https://ayush-cyber1.github.io/ayush-portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-ayush--cyber1-7dd3fc?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-cyber1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Visit-7dd3fc?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ayush_sh2177/)
 
 </div>
 
