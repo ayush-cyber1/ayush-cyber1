@@ -117,22 +117,19 @@ const ayushSharma = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-cyber1&show_icons=true&theme=default&title_color=7dd3fc&icon_color=7dd3fc&text_color=333333&border_color=7dd3fc&bg_color=ffffff" width="49%" />
+<!-- GitHub Stats + Streak -->
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-cyber1&show_icons=true&theme=default&title_color=7dd3fc&icon_color=7dd3fc&text_color=333333&border_color=7dd3fc&bg_color=ffffff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-cyber1&layout=compact&theme=default&title_color=7dd3fc&text_color=333333&border_color=7dd3fc&bg_color=ffffff" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-cyber1&theme=default&hide_border=false&background=ffffff&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=333333&sideLabels=333333&dates=666666" width="98%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-cyber1&theme=default&hide_border=false&background=ffffff&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=333333&sideLabels=333333&dates=666666" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-cyber1&bg_color=ffffff&color=333333&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" width="98%" />
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-cyber1&bg_color=ffffff&color=333333&line=7dd3fc&point=7dd3fc&area=true&hide_border=true" width="96%" />
 
 </div>
 
 <br/>
-
 ### 🔗 Connect With Me
 
 <div align="center">
