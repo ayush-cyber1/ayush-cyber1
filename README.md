@@ -118,15 +118,17 @@ const ayushSharma = {
 <div align="center">
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-cyber1&show_icons=true&theme=default&title_color=7dd3fc&icon_color=7dd3fc&text_color=333333&border_color=7dd3fc&bg_color=ffffff" width="52%" />
-
-<!-- Streak Stats - smaller -->
-<img src="https://streak-stats.demolab.com/?user=ayush-cyber1&theme=default&hide_border=true&background=ffffff&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=333333&sideLabels=333333&dates=666666" width="38%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ayush-cyber1&show_icons=true&theme=default&title_color=7dd3fc&icon_color=7dd3fc&text_color=333333&border_color=7dd3fc&bg_color=ffffff" width="55%" />
 
 <br><br>
 
-<!-- GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-cyber1&theme=github-compact&hide_border=true&area=true&color=7dd3fc&line=7dd3fc&point=7dd3fc" width="94%" />
+<!-- Streak Stats - smaller -->
+<img src="https://streak-stats.demolab.com/?user=ayush-cyber1&theme=default&hide_border=true&background=ffffff&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=333333&sideLabels=333333&dates=666666" width="32%" />
+
+<br><br>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-cyber1&theme=github-compact&hide_border=true" width="95%" />
 
 </div>
 
