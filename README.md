@@ -117,8 +117,7 @@ const ayushSharma = {
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ayush-cyber1&show_icons=true&theme=default&title_color=7dd3fc&icon_color=7dd3fc&text_color=333333&border_color=7dd3fc&bg_color=ffffff" width="55%" />
+
 
 <br><br>
 
